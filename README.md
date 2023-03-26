@@ -1,1 +1,1 @@
-# DOM-Crash-Course---Part-4-Final-Project-
+# JavaScript-DOM-Crash-Course-Part-4-Final-Project
